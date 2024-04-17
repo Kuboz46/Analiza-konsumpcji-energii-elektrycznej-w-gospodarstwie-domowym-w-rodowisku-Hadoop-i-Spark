@@ -1,0 +1,5 @@
+W danym projekcie, przeprowadziłem analizę konsumpcji energii elektrycznej w gospodarstwie domowym, od stycznia 2007 do czerwca 2007 roku. Celem tej analizy jest lepsze zrozumienie, jak energia jest wykorzystywana w domu. Można na przykład przeanalizować zużycie energii elektrycznej w zależności od miejsca wykorzystania energii w domu.
+
+Dane pochodzą z strony "kaggle". Źródło danych jest w poniższym linku:
+
+https://www.kaggle.com/datasets/thedevastator/240000-household-electricity-consumption-records.
